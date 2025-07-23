@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# health-care-application
-=======
+
 # Mobile Health App
 
  mobile application designed to help users monitor their kidney health by tracking serum creatinine levels. It supports report uploads via camera/gallery, OCR-based extraction using Tesseract.js, personalized notifications, and eGFR calculation.
